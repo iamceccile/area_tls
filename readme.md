@@ -12,9 +12,7 @@
 </p>
 
 
-```
 
-(Third-party package maintained by @picoman)
 
 ### [Gradience](https://gradienceteam.github.io/)
 
