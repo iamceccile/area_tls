@@ -15,8 +15,6 @@
 
 ### Arch-like ([AUR](https://aur.archlinux.org/packages/rose-pine-gtk-theme-full))
 
-```sh
-paru -S rose-pine-gtk-theme-full
 ```
 
 (Third-party package maintained by @picoman)
