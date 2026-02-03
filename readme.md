@@ -11,9 +11,6 @@
     </a>
 </p>
 
-## Usage
-
-### Arch-like ([AUR](https://aur.archlinux.org/packages/rose-pine-gtk-theme-full))
 
 ```
 
