@@ -15,10 +15,6 @@
 
 
 ### Manual
-
-> [!NOTE]
-> Follow these steps for GTK3 and GTK4.
-
 1. Download the latest release from [releases page](https://github.com/rose-pine/gtk/releases/latest). You will need `gtk3.tar.gz` for GTK3 or `gtk4.tar.gz` for GTK4, and one of icon packs (`rose-pine-<variant>-icons.tar.gz`).
 2. For GTK3, extract the contents of `gtk3.tar.gz` into `~/.themes`, the contents of your chosen icon pack into `~/.icons`. For GTK4, extract the `gtk4.tar.gz` tarball and rename your chosen variant's `.css` file to `gtk.css` and paste the file into `~/.config/gtk-4.0` (create the directory if it doesn't exist).
 3. Apply with GNOME Tweaks or LXAppearance. Restart your libadwaita apps. We'd recommend setting your style to Light - otherwise the GTK3 theme will have flipped colors.
