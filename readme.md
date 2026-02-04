@@ -26,9 +26,6 @@ For GTK3, if you prefer not to use GUI apps for changing the themes and icons, y
 [Settings]
 ; If your prefer other themes variant, replace the "rose-pine-gtk" with "rose-pine-moon-gtk" or "rose-pine-dawn-gtk"
 gtk-theme-name=rose-pine-gtk
-
-; If you prefer other icons variant, replace the "rose-pine-icons" with "rose-pine-moon-i
-
 ## Gallery
 
 **Rosé Pine**
