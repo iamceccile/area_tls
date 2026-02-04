@@ -14,9 +14,6 @@
 
 
 
-### [Gradience](https://gradienceteam.github.io/)
-
-
 ### Manual
 
 > [!NOTE]
