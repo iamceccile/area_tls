@@ -23,10 +23,7 @@
 For GTK3, if you prefer not to use GUI apps for changing the themes and icons, you can change it manually in the configuration file (`~/.config/gtk-3.0/settings.ini`):
 
 ```ini
-[Settings]
-; If your prefer other themes variant, replace the "rose-pine-gtk" with "rose-pine-moon-gtk" or "rose-pine-dawn-gtk"
-gtk-theme-name=rose-pine-gtk
-## Gallery
+
 
 **Rosé Pine**
 
