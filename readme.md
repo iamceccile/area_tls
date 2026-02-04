@@ -17,8 +17,6 @@
 ### [Gradience](https://gradienceteam.github.io/)
 
 1. Go to the presets menu (middle button on top right)
-2. Go to Explore and search "Rosé Pine"
-3. Choose your theme(s), hit the download button then the check button
 
 ### Manual
 
