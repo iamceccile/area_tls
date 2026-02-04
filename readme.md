@@ -16,7 +16,6 @@
 
 ### [Gradience](https://gradienceteam.github.io/)
 
-1. Go to the presets menu (middle button on top right)
 
 ### Manual
 
